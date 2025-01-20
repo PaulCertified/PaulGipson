@@ -1,0 +1,9 @@
+export { Navbar } from './Navbar';
+export { Hero } from './Hero';
+export { BentoGrid } from './BentoGrid';
+export { About } from './About';
+export { Projects } from './Projects';
+export { Testimonials } from './Testimonials';
+export { Approach } from './Approach';
+export { Contact } from './Contact';
+export { Footer } from './Footer';
